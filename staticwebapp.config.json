@@ -2,9 +2,6 @@
   "routes": [
     {
       "route": "/",
-      "methods": [
-        "get"
-      ],
       "redirect": "https://www.fidf.org/event/mg2026/",
       "statusCode": 301
     }
